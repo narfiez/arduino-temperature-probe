@@ -28,8 +28,9 @@ If the SD card is not working or not plugged in, the monitor will say “Card Fa
 
 ![card failure](https://user-images.githubusercontent.com/40296224/43777200-61a587e0-9a52-11e8-9ae7-23993202a16e.png)
 
+## To view the data afterwards: 
 
-Afterwards, to view the data, unplug the USB cable to remove power to the Arduino. Remove the SD card and plug it into a computer. The file “LOG.csv” can be opened with Excel. The data should be separated into different cells as shown below.
+Unplug the USB cable to remove power to the Arduino. Remove the SD card and plug it into a computer. The file “LOG.csv” can be opened with Excel. The data should be separated into different cells as shown below.
 
 ![log](https://user-images.githubusercontent.com/40296224/43777248-7934df28-9a52-11e8-83b7-43ee10a72711.png)
 
