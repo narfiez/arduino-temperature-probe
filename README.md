@@ -7,6 +7,19 @@ Arduino nano based temperature probe for use in a coffee roaster to log temperat
 Plug in the Mini USB cable into the Arduino and the other end into the PC. The temperature data will be recorded on the SD card as long as it is powered.
 
 ## To view live data on PC:
+
+### With 3rd party Serial Monitor:
+Download and install Tera Term from [Tera Term](http://ttssh2.osdn.jp/).
+Connect the Arduino and run the app. 
+
+Select "Serial". If an arduino is already connected it should automatically select the right COM port. If not, select it. Click "OK" to start the monitor.
+
+![teraterm](https://user-images.githubusercontent.com/40296224/44400691-69725c00-a54c-11e8-9682-a1f41e7180da.PNG)
+
+The temperature data will be sent to the PC as well as saved to the SD card as long as the device has power.
+
+
+### Alternatively, with Arduino Serial Monitor:
 Open Arduino software.
 //Click “Tools” > “Board:” > “Arduino Nano”
 Click “Tools” > “Port” > Select the port, something like “COM5”
