@@ -68,3 +68,5 @@ Go to “File” > “Options” > Set the “Decimal Separator” to a full sto
 ![decimal separator](https://user-images.githubusercontent.com/40296224/43777344-ce54d864-9a52-11e8-8d94-0385609819da.png)
 
 
+
+Parts: https://docs.google.com/document/d/1fC0uv_WY--jWsmecGlEBVOZfQLkkOPCt-fyuU55ebko/edit
